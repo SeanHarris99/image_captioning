@@ -1,4 +1,6 @@
 # A LSTM net that captions images
 Included in repository: 
-  Python notebook documenting construction, training, testing of model
-  Model weights
+
+image_captioning.ipynb: Python notebook documenting construction, training, testing of model
+  
+model.h5: Keras model weights
