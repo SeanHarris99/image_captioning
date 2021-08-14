@@ -4,28 +4,28 @@ This directory contains code to train a neural network to automatically label im
  ![Alt text](figures/figure1.png?raw=true "Title2")
  
  Generated caption: a boy in a white uniform is playing a game .
-
+<br />
 
 
 
  ![Alt text](figures/figure2.png?raw=true "Title2")
  
  Generated caption: a group of people pose for a picture .
-
+<br />
 
 
 
  ![Alt text](figures/figure3.png?raw=true "Title2")
  
  Generated caption: a white dog is running through the grass .
-
+<br />
 
 
 
  ![Alt text](figures/figure4.png?raw=true "Title2")
  
  Generated caption: a group of people are standing on a mountain .
-
+<br />
 
 
 
